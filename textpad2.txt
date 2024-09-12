@@ -1,1 +1,3 @@
 branch2...
+
+made changes in branch2
